@@ -8,3 +8,5 @@ This is the collection of the projects I worked on for the Scientific Computing 
 * Signal Processing (coolest, in my opinion)
 * Differential Equations
 * Final Project (diffusion limited aggregation)
+
+Read README inside each project folder for more detail.
