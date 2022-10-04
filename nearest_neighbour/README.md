@@ -14,7 +14,7 @@ The visualiser picks a point and draws a circle with an increasing radius, which
 
 The searching is not actually done by drawing circles; it is only to visualise what the code is for. The results are pre-calculated by other part of the code.
 
-Screenshot taken while it was running:
+Screenshot taken while it is running:
 ![](../readme/neighbour_2d.png)
 
 Result:
