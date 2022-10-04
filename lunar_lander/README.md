@@ -4,7 +4,7 @@
 
 A minigame with an element of physics (free-falling with differentiable acceleration and momentum in the x direction). The goal is to find and land on a relatively flat surface before running out of fuel.
 
-![](../readme/lunar_lander)
+![](../readme/lunar_lander.png)
 
 * Dark mode by default.
 * Controllable engine using the slider bar.
@@ -18,6 +18,6 @@ A minigame with an element of physics (free-falling with differentiable accelera
 
 A simple tool that visualises the path of a free-falling object on the moon.
 
-![](../readme/freefalling1)
+![](../readme/freefalling1.png)
 
-![](../readme/freefalling2)
+![](../readme/freefalling2.png)
