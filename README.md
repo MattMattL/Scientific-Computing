@@ -5,6 +5,6 @@ This is the collection of the projects I worked on for the Scientific Computing 
 ## Project List
 * Lunar Lander
 * Version Control (nearest neighbours)
-* Signal Processing
+* Signal Processing (coolest, in my opinion)
 * Differential Equations
 * Final Project (diffusion limited aggregation)
