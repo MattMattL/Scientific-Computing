@@ -23,7 +23,7 @@ Result:
 
 ## 3D
 
-Same as the 2D version, but draws a sphere. The 3D plot rotates slowly as it initially did not give the sense of 3D space with a constant "camera" angle.
+Same as the 2D version, but draws a sphere. The 3D plot rotates slowly as it initially did not give the sense of 3D space due to a constant "camera" angle.
 
 Drawing the sphere:
 ![](../readme/neighbour_3d.png)
