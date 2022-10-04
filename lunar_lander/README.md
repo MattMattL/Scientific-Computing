@@ -16,7 +16,7 @@ A minigame with an element of physics (free-falling with differentiable accelera
 
 ## Free-fall Analysis
 
-A simple tool that visualises the path of a free-falling object on the moon.
+A simple tool that visualises the path of a free-falling object with a = -1 m/s^2.
 
 ![](../readme/freefalling1.png)
 
