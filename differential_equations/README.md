@@ -5,7 +5,7 @@ Solving the 1D time-independent Schrödinger equations given a set of boundary a
 
 ## Overview
 
-The purpose of this program is to find the ground energy of the wave. My approach was to give the user a slider, which starts from E = 0 and can be gradually increased until the wave first meets the boundary conditions.
+The purpose of this program is to find the ground energy of the wave. My approach was to give the user a slider, which starts from min(E) and can be gradually increased until the wave first meets the boundary conditions.
 
 This is to simplify the code by identifying what the user can do trivially but hard to implement with the code. The result of it is that the entire code, including the shooting method, visualisation and all the comments, is only 235 line-long.
 
