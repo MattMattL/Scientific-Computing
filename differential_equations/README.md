@@ -1,6 +1,6 @@
 # Solving Differential Equations
 
-Solving the 1D time-independent Schrödinger equations given a set of boundary and initial conditions, E, V and d(psi)/dx.
+Solving the 1D time-independent Schrödinger equations given a set of boundary and initial conditions, E, x_step and d(psi)/dx.
 
 
 ## Overview
@@ -12,7 +12,7 @@ This is to simplify the code by identifying what the user can do trivially but h
 
 ## Demo
 
-The user is given control to three slider bars for adjusting E, V and -phi'.
+The user is given control to three slider bars for adjusting E, x_step and -phi'.
 ![](../readme/diff_narrow.png)
 
 When the left-end of the wave meets the boundary condition, the indicator changes to green. The user needs to find the first such point (lowest E allowed).
