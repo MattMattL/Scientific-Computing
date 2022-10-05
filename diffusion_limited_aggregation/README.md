@@ -12,7 +12,7 @@ My idea was to make a full-stack program that is  not only a simulation tool but
 
 ## Program Demo
 
-The 'Lattice view' of the program. The panels on the left-hand side are used to control the Lattice plane and simulate particles.
+The 'Lattice view' of the program. The panels on the left-hand side are used to control the Lattice plane and simulate particles. Please ignore the types.
 ![](../readme/dla_lattice.png)
 
 The 'Analysis view' of the program. The panels on the right-hand side can be used measure the slope of the log-log plot (radius R versus the number of particles within R). The sum square error is calculated automatically within the set windowing range.
