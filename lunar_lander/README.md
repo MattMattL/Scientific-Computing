@@ -10,7 +10,7 @@ A minigame with an element of physics (free-falling with differentiable accelera
 * Controllable engine using the slider bar.
 * The "engine flame" changes according to the engine strength (looks convincing as the flame model is non-linear).
 * Mathematically-engineered randomised terrain that continues infinitely.
-* Flight panel-style graphics that work.
+* Flight panel style graphics that function.
 * Motivating comment displayed above the map.
 
 
