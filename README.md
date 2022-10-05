@@ -1,6 +1,6 @@
 # Scientific Computing Module Projects
 
-This is the collection of my projects I worked on for the Scientific Computing module, a year 4 semester-long module that I took during my third year.
+This is the collection of my projects I worked on for the Scientific Computing module, a semester-long year 4 module that I took during my third year.
 
 ## Project List
 * Lunar Lander
