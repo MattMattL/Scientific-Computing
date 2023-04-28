@@ -7,4 +7,4 @@ This is the collection of my projects I worked on during my third year for the S
 * Nearest Neighbours
 * Signal Processing
 * Differential Equations
-* Final Project: Diffusion Limited Aggregation
+* Final Project: diffusion limited aggregation
