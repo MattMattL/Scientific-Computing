@@ -12,7 +12,7 @@ My approach was to make a program with the visual of an oscilloscope. Features i
 
 ## Demo
 
-Choose a wave of your interest from the preset (sin, triangle, square, saw-tooth), or make your own.
+Choose a wave from the preset (sin, triangle, square, saw-tooth), make a new one using the Add section.
 ![](../readme/signal_original.png)
 
 Add random noise using the Add Noise button.
