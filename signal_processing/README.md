@@ -12,7 +12,7 @@ My approach was to make a program with the visual of an oscilloscope. Features i
 
 ## Demo
 
-Choose a wave from the preset (sin, triangle, square, saw-tooth), make a new one using the Add section.
+Choose a wave from the preset (sin, triangle, square, saw-tooth), or make a new one using the Add dials.
 ![](../readme/signal_original.png)
 
 Add random noise using the Add Noise button.
@@ -24,5 +24,5 @@ Display the Frequency plane and filter out certain frequencies using the Masks d
 The filtered signal can be checked in the Phase mode.
 ![](../readme/signal_filtered.png)
 
-Can also add new waves using the Add dials.
+Generate custom waves using the Add dials.
 ![](../readme/signal_add.png)
