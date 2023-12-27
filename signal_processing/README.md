@@ -2,12 +2,12 @@
 
 ## Overview
 
-The requirement of this project was to implement a fast Fourier transformation algorithm for general waves. The result of FFT can then be used to filter out certain frequency, etc.
+The requirement of this project was to implement a Fast Fourier Transformation (FFT) algorithm for general waves. The result of the FFT can then be used to filter out certain frequency, etc.
 
-My approach was to make a program with the visual of an oscilloscope. Features include:
-* Can display Phase, Frequency and Adder mode on the screen.
-* Scale buttons are used to zoom in/out on the phase/frequency plane.
-* Windowing knobs are used to exclude some part of phase/frequencies.
+My approach was to make a program with the interface of an oscilloscope. Features include:
+* Phase, Frequency and Adder mode on the screen.
+* Scale buttons used to zoom in/out on the phase/frequency plane.
+* Windowing dials used to exclude some part of phase/frequencies.
 
 
 ## Demo
