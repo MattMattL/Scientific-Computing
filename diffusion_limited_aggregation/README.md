@@ -5,9 +5,9 @@ Final project for the module. I chose diffusion limited aggregation.
 
 ## Overview
 
-A particle can perform random walks until it discovers a neighbouring particle, in which case it will stick to it (no random walk after that point). My project was to simulate the aggregation process with a large number of particles and measure the effective dimension of the aggregation structure.
+A particle can perform random walks until it discovers a neighbouring particle, in which case it will aggregate to it (no random walk performed after that point). The project was to simulate the aggregation process with a large number of particles and measure the effective dimension of the formed structure.
 
-My idea was to make a full-stack program that is  not only a simulation tool but also an analysis tool. With my program, I was able to measure the effective dimension of 2D random aggregations close to the expected value (expected 1.657 +/- 0.004 \[1\], measured 1.66 +/- 0.02).
+My idea was to make a full-stack program that is not only a simulation program but also an analysis tool. With my program, I was able to measure the effective dimension of 2D random aggregations close to the expected value (expected 1.657 +/- 0.004 \[1\], measured 1.66 +/- 0.02).
 
 
 ## Program Demo
