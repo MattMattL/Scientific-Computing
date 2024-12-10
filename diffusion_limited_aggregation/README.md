@@ -1,6 +1,6 @@
 # Individual Project
 
-Final project for the module. I chose diffusion limited aggregation.
+Final project of the module - diffusion limited aggregation.
 
 
 ## Overview
